@@ -1,9 +1,9 @@
 # **:triangular_flag_on_post: EXPO-STRIPE-CHECKOUT-SCA**
 
 VERSÃO MODIFICADA - MERCADATA DIGITAL 2021
-Desenvolvedores:
-|Lucas Thomaz - lucas@mercadata.com.br
-|Cicero D. - cicero@mercadata.com.br
+# Desenvolvedores:
+> Lucas Thomaz - lucas@mercadata.com.br
+> Cicero D. - cicero@mercadata.com.br
 
 ![project version](https://img.shields.io/badge/project-0.5.0-brightgreen.svg)
 
