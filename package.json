@@ -1,0 +1,48 @@
+{
+  "name": "expo-stripe-checkout-sca",
+  "version": "0.5.0",
+  "description": "A React Native Stripe Checkout WebView component compatible with Expo apps and SCA",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "homepage": "https://github.com/christianascone/expo-stripe-checkout-sca",
+  "bugs": {
+    "url": "https://github.com/christianascone/expo-stripe-checkout-sca/issues",
+    "email": "ascone.christian@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianascone/expo-stripe-checkout-sca.git"
+  },
+  "keywords": [
+    "stripe",
+    "checkout",
+    "react",
+    "native",
+    "expo",
+    "webview",
+    "sca"
+  ],
+  "author": {
+    "name": "Christian Ascone",
+    "email": "ascone.christian@gmail.com",
+    "url": "https://github.com/christianascone",
+    "social": {
+      "GitHub": "https://github.com/christianascone",
+      "GitLab": "https://gitlab.com/christianascone"
+    }
+  },
+  "contributors": [],
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">= 0.20.0"
+  },
+  "dependencies": {
+    "modal-enhanced-react-native-web": "^0.2.0",
+    "react-native-web-webview": "^0.2.8",
+    "react-native-webview": "^8.0.3"
+  }
+}
